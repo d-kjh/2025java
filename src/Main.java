@@ -1,7 +1,8 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    public static void main(String[] args) { //메소드 (Method), 메인 메소드
+    public static void main(String[] args) { //메소드 (Method), 메인 메소드 
+        // 메소드 구분법 : 소괄호
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("봉쥬르"); // 콘솔에 내용을 출력하시오
@@ -24,7 +25,7 @@ public class Main {
     클래스 이름은 파일 이름과 같아야 함
     메소드는 함수라고 보면 됨
     메인 메소드는 굉장히 중요한 메소드, 프로그램의 시작점
-    메소드를 만드는 것은 메소드 정의한다.라고 표현
+    메소드를 만드는 것은 "메소드 정의"한다.라고 표현
     메소드를 사용하는 것은 "메소드 호출" 라고 표현
     메소드가 호출되면 메소드 내용이 한 줄씩 한 줄씩 실행이 된다
 */
