@@ -24,6 +24,7 @@ public class UpAndDownGame {
             num = scanner.nextInt();
             if ( num == answer) {
              System.out.println("정답");
+             break; // break를 감싸고 있는 가장 가까운 반복문을 빠져나온다
             } else if ( num > answer) {
              System.out.println("Down");
             } else {
